@@ -7,14 +7,6 @@ Model Objective:
 The primary objective of this model is to assist healthcare professionals in identifying patients at higher risk of heart disease, enabling timely interventions and preventive measures.
 
 
-
-
-
-The heart disease prediction model leverages the power of Logistic Regression, a widely used statistical method for binary classification tasks. The model is designed to predict the likelihood of an individual having heart disease based on various clinical and lifestyle attributes.
-
-Model Objective:
-The primary objective of this model is to assist healthcare professionals in identifying patients at higher risk of heart disease, enabling timely interventions and preventive measures.
-
 Data Used:
 The dataset includes features that are known to influence heart health, such as:
 
