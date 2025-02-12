@@ -5,13 +5,10 @@ The heart disease prediction model leverages the power of Logistic Regression, a
 
 Model Objective:
 The primary objective of this model is to assist healthcare professionals in identifying patients at higher risk of heart disease, enabling timely interventions and preventive measures.
-Share
 
 
-You said:
-give me good description regarding a heart disease prediction model built by logistic regression model 
-ChatGPT said:
-Heart Disease Prediction Model Using Logistic Regression
+
+
 
 The heart disease prediction model leverages the power of Logistic Regression, a widely used statistical method for binary classification tasks. The model is designed to predict the likelihood of an individual having heart disease based on various clinical and lifestyle attributes.
 
