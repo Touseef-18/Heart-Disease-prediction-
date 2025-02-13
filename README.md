@@ -13,7 +13,7 @@ The dataset includes features that are known to influence heart health, such as:
 Age,
 Gender,
 Blood pressure levels,
-Cholesterol levels,
+Chest pain type,
 Resting heart rate,
 Fasting blood sugar,
 Electrocardiographic results,
